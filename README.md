@@ -7,7 +7,7 @@ Magento 2 Thai Language Pack
 To download and install Thai pack manually, you have to access to your server via FTP or SFTP.
 
 #### Step 1: Download the package
-[Download .zip](https://github.com/sukitz/magento2-language-pack/archive/master.zip)
+[Download .zip](https://github.com/sukitz/magento2-thai-language-pack/archive/master.zip)
 
 #### Step 2: Unzip and upload
 Unzip the compressed file and upload file ```th_TH.zip``` into ```app/i18n/sukit/th_TH/```
