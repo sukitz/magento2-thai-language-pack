@@ -12866,3 +12866,4 @@ About Us,เกี่ยวกับเรา,theme,frontend/Magento/luma
 "<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone"">%store_phone</a>",theme,frontend/Magento/luma
 "%name,","%name,",theme,frontend/Magento/luma
 "%customer_name,","%ชื่อลูกค้า,",theme,frontend/Magento/luma
+close,ปิด,frontend/Magento/luma
