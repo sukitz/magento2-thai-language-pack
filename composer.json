@@ -8,11 +8,11 @@
   },
   "authors": [{
     "name": "Sukit Prachprayoon",
-    "email": "sukit@kkumail.com",
+    "email": "sukityong@gmail.com",
     "role": "Dev."
   }],
   "type": "magento2-language",
-  "version": "100.1.0",
+  "version": "0.0.1",
   "autoload": {
     "files": [
       "registration.php"
