@@ -6,9 +6,9 @@
  * 
  * Github: https://github.com/sukitz/magento2-language-th-th
  * 
- * @author Sukit Prachprayoon <sukit@kkumail.com>
+ * @author Sukit Prachprayoon <sukityong@gmail.com>
  * @copyright Copyright (c) 2018
- * @version 100.1.0
+ * @version 0.0.1
  */
 
 \Magento\Framework\Component\ComponentRegistrar::register(
